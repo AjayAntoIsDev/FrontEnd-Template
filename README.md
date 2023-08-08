@@ -2,7 +2,7 @@
 
 Note: This ***only*** has the basic tailwind config(with the pallet) and the basic file structure
 
-I *recommend* you to use this file structure of better readability
+I *recommend* you to use this file structure for better readability
 
 Run this code in your terminal to start the build process ***THIS IS REALLY IMPORTANT!***
 ```
