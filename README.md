@@ -1,6 +1,6 @@
 # This is only a basic structure
 
-Note: This ***only*** has the basic tailwind config(with out pallet) and the basic file structure
+Note: This ***only*** has the basic tailwind config(with the pallet) and the basic file structure
 
 I *recommend* you to use this file structure of better readability
 
